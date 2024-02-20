@@ -12,7 +12,7 @@ I have already acted in ERP systems for sign electronic invoices and administrat
 
 #### 💻 Front-end
 
-[![Front-end Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,remix,html,css,sass,tailwind,styledcomponents,java,androidstudio,swift&theme=dark)](https://skillicons.dev)
+[![Front-end Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,html,css,sass,tailwind,styledcomponents,java,androidstudio,swift&theme=dark)](https://skillicons.dev)
 
 #### 🛠️ Back-end
 
