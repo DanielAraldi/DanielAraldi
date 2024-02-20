@@ -10,7 +10,7 @@ I have already participated in **ERP systems** for signing electronic invoices a
 
 Finally, I have significant experience with **mobile app development** done in React Native focused on areas of fintech, catalogs, inventory control, and others. I highlight my knowledge of building native modules for Android (Java) and iOS (Swift and Objective-C/C++) and the creation of libraries for React Native for publishing in NPM.
 
-All this experience helped me build a good base development and understand the needs and client's wishes. These technical features made me a developer very careful with the app details that I've developed and developed. If you want to know more about me, you can call me on [LinkedIn](https://www.linkedin.com/in/daniel-sansão-araldi-8b23b71b5). Thank you, see you soon 😄.
+All this experience helped me build a good base development and understand the needs and client's wishes. These technical features made me a developer very careful with the app details that I've developed and still develop. If you want to know more about me, you can call me on [LinkedIn](https://www.linkedin.com/in/daniel-sansão-araldi-8b23b71b5). Thank you, see you soon 😄.
 
 ## 🚀 Skills Technologies
 
