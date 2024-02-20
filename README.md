@@ -6,9 +6,11 @@ Welcome to my GitHub profile! I'm a Web and Mobile Front-end Developer, but also
 
 I'm a Systems Development Technician by [SENAI](https://sc.senai.br/) and currently studying Computer Science at Univali at [UNIVALI](https://www.univali.br/). I have been inside development studying for 6 years, and I have 3 years with a professional developer as a front-end and back-end.
 
-I have already participated in ERP systems for signing electronic invoices and administration using **Node.js**, **Express.js**, and **Java Spring Boot**. Also, I have experience with administrator panels around deliveries, management, and schools using the technologies React and Next.js.
+I have already participated in **ERP systems** for signing electronic invoices and administration using Node.js, Express.js, and Java Spring Boot. Also, I have experience with **administrator panels** around deliveries, management, and schools using the technologies React and Next.js.
 
-Finally, I have significant experience with mobile app development done in **React Native** focused on areas of fintech, catalogs, inventory control, and others. I highlight my knowledge of building native modules for **Android (Java)** and **iOS (Swift and Objective-C/C++)**, and on the creation of libraries for **React Native** for publishing in **NPM**.
+Finally, I have significant experience with **mobile app development** done in React Native focused on areas of fintech, catalogs, inventory control, and others. I highlight my knowledge of building native modules for Android (Java) and iOS (Swift and Objective-C/C++) and the creation of libraries for React Native for publishing in NPM.
+
+All this experience helped me build a good base development and understand the needs and client's wishes. These technical features made me a developer very careful with the app details that I've developed and developed. If you want to know more about me, you can call me on [LinkedIn](https://www.linkedin.com/in/daniel-sans%C3%A3o-araldi-8b23b71b5/). Thank you, see you soon 😄.
 
 ## 🚀 Skills Technologies
 
