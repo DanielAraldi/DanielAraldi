@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Web and Mobile Front-end Developer, but also I have knowledge and experience with Back-end development. Here's a bit about me:
 
-## ✨ About me:
+## ✨ About me
 
 I'm a Systems Development Technician by [SENAI](https://sc.senai.br/) and currently studying Computer Science at Univali at [UNIVALI](https://www.univali.br/). I have been inside development studying for 6 years, and I have 3 years with a professional developer as a front-end and back-end.
 
