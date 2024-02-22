@@ -29,6 +29,7 @@ All this experience helped me build a good base development and understand the n
 ## :octocat: My Stats
 
 <div>
+  <a href="https://github.com/Daniel" />
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=DanielAraldi&show_icons=true&theme=tokyonight&rank_icon=default&custom_title=GitHub%20Stats"
