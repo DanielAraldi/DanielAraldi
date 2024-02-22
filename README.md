@@ -28,16 +28,15 @@ All this experience helped me build a good base development and understand the n
 
 ## :octocat: My Stats
 
-<div>
-  <a href="https://github.com/Daniel" />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=DanielAraldi&show_icons=true&theme=tokyonight&rank_icon=default&custom_title=GitHub%20Stats"
-    alt="Daniel Sansão Araldi's GitHub Stats"
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=danielsaraldi&layout=compact&langs_count=10&theme=tokyonight"
-    alt="Daniel Sansão Araldi's Wakatime Stats"
-  />
-</div> 
+<img
+  width="100%"
+  height="100%"
+  src="https://github-readme-stats.vercel.app/api?username=DanielAraldi&show_icons=true&theme=tokyonight&rank_icon=default&custom_title=GitHub%20Stats"
+  alt="Daniel Sansão Araldi's GitHub Stats"
+/>
+<img
+  width="100%"
+  height="100%"
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=danielsaraldi&layout=compact&langs_count=10&theme=tokyonight"
+  alt="Daniel Sansão Araldi's Wakatime Stats"
+/>
