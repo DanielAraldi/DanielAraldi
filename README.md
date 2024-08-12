@@ -1,5 +1,7 @@
 # Hello World! I'm Daniel Sansão Araldi 👋
 
+[![wakatime](https://wakatime.com/badge/user/920a7e43-2969-4212-82ff-1b375685ff58.svg)](https://wakatime.com/@920a7e43-2969-4212-82ff-1b375685ff58)
+
 Welcome to my GitHub profile! I'm a Web and Mobile Front-end Developer, but I also have knowledge and experience with Back-end development. Here's a bit about me:
 
 ## ✨ About me
