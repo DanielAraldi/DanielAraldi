@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/920a7e43-2969-4212-82ff-1b375685ff58.svg)](https://wakatime.com/@920a7e43-2969-4212-82ff-1b375685ff58)
 
-Welcome to my GitHub profile! I'm a Web and Mobile Front-end Developer, but I also have knowledge and experience with Back-end development. Here's a bit about me:
+Welcome to my GitHub profile! I'm a web and mobile front-end developer, but I also have knowledge and experience with back-end development. Here's a bit about me:
 
 ## ✨ About me
 
@@ -12,7 +12,9 @@ I have already participated in **ERP systems** for signing electronic invoices a
 
 Finally, I have significant experience with **mobile app development** done in React Native focused on areas of fintech, catalogs, inventory control, and others. I highlight my knowledge of building native modules for Android (Java) and iOS (Swift and Objective-C/C++) and creating libraries for React Native for publishing in NPM.
 
-Currently, I am working on the [LEMA](https://github.com/DanielAraldi/LEMA) project at [Univali](https://www.univali.br/), an oceanography project to link three services to manage geospatial data around the world.
+I worked for some months on the [LEMA](https://github.com/DanielAraldi/LEMA) project at [Univali](https://www.univali.br/), an oceanography project to link three services to manage geospatial data around the world.
+
+Currently, I am working on the [Geomais](https://www.geomais.com.br/) as a web and mobile front-end developer, developing ReactJS applications and apps in React Native.
 
 All this experience helped me build a good base development and understand the needs and client's wishes. These technical features made me a developer very careful with the app details that I've developed and still develop. If you want to know more about me, you can call me on [LinkedIn](https://www.linkedin.com/in/daniel-sansão-araldi-8b23b71b5). Thank you, see you soon 😄.
 
