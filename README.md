@@ -14,7 +14,7 @@ Finally, I have significant experience with **mobile app development** done in R
 
 I worked for some months on the [LEMA](https://github.com/DanielAraldi/LEMA) project at [Univali](https://www.univali.br/), an oceanography project to link three services to manage geospatial data around the world.
 
-Currently, I am working at the [Geomais](https://www.geomais.com.br/) as a web and mobile front-end developer, developing ReactJS applications and apps in React Native.
+Currently, I am working at the [Geomais](https://www.geomais.com.br/) as a web and mobile front-end developer, developing ReactJS applications.
 
 All this experience helped me build a good base development and understand the needs and client's wishes. These technical features made me a developer very careful with the app details that I've developed and still develop. If you want to know more about me, you can call me on [LinkedIn](https://www.linkedin.com/in/daniel-sansão-araldi-8b23b71b5). Thank you, see you soon 😄.
 
