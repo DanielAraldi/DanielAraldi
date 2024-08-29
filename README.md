@@ -26,11 +26,11 @@ All this experience helped me build a good base development and understand the n
 
 #### 🛠️ Back-end
 
-[![Back-end Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,graphql,apollo,prisma,mongodb,postgres,sqlite,mysql,docker,java,spring,postman&theme=dark)](https://skillicons.dev)
+[![Back-end Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,graphql,apollo,prisma,mongodb,postgres,sqlite,mysql,java,spring,postman&theme=dark)](https://skillicons.dev)
 
 #### 🔭 Other Skills
 
-[![Others Skills](https://skillicons.dev/icons?i=github,bitbucket,git,githubactions,firebase,vscode,figma,xd,vitest,jest,md,c,cpp,cmake,babel,vercel,heroku,netlify,gradle,bash,discord,notion,obsidian,matlab,ubuntu&theme=dark)](https://skillicons.dev)
+[![Others Skills](https://skillicons.dev/icons?i=github,bitbucket,git,githubactions,firebase,docker,vscode,figma,xd,vitest,jest,md,c,cpp,cmake,babel,vercel,heroku,netlify,gradle,bash,discord,notion,obsidian,matlab,ubuntu&theme=dark)](https://skillicons.dev)
 
 ## :octocat: My Stats
 
