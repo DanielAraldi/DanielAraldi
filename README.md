@@ -44,3 +44,8 @@ All this experience helped me build a good base development and understand the n
   src="https://github-readme-stats.vercel.app/api/wakatime?username=danielsaraldi&layout=compact&langs_count=10&theme=tokyonight"
   alt="Daniel Sansão Araldi's Wakatime Stats"
 />
+<img
+  height="180rem"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAraldi&layout=compact&langs_count=10&theme=tokyonight"
+  alt="Daniel Sansão Araldi's Most Used Languages"
+/>
