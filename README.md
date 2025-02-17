@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a web and mobile front-end developer, but I al
 
 ## ✨ About me
 
-I'm a Systems Development Technician by [SENAI](https://sc.senai.br/) and currently studying Computer Science at [Univali](https://www.univali.br/). I have been inside development studying for 6 years, and I have 3 years with a professional developer as a front-end and back-end.
+I'm a Systems Development Technician by [SENAI](https://sc.senai.br/) and currently studying Computer Science at [Univali](https://www.univali.br/). I have been inside development studying for 7 years, and I have 4 years with a professional developer as a front-end and back-end.
 
 I have already participated in **ERP systems** for signing electronic invoices and administration using Node.js, Express.js, and Java Spring Boot. Also, I have experience with **administrator panels** around deliveries, management, and schools using technologies React and Next.js.
 
