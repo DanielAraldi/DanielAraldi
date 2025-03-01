@@ -10,11 +10,11 @@ I'm a Systems Development Technician by [SENAI](https://sc.senai.br/) and curren
 
 I have already participated in **ERP systems** for signing electronic invoices and administration using Node.js, Express.js, and Java Spring Boot. Also, I have experience with **administrator panels** around deliveries, management, and schools using technologies React and Next.js.
 
-Finally, I have significant experience with **mobile app development** done in React Native focused on areas of fintech, catalogs, inventory control, and others. I highlight my knowledge of building native modules for Android (Java) and iOS (Swift and Objective-C/C++) and creating libraries for React Native for publishing in NPM.
+I have significant experience with **mobile app development** done in React Native focused on areas of fintech, catalogs, inventory control, and others. I highlight my knowledge of building native modules for Android (Java) and iOS (Swift and Objective-C/C++) and creating libraries for React Native for publishing in NPM.
 
 I worked for some months on the [LEMA](https://github.com/DanielAraldi/LEMA) project at [Univali](https://www.univali.br/), an oceanography project to link three services to manage geospatial data around the world.
 
-Currently, I am working as a web developer, development libraries and applications ReactJS using Turborepo and TypeScript.
+Finally, I worked as a web developer for a geospatial company that managed cities around Brazil. I also fixed bugs and added new features on various modules around the application, as economic, real estate, sanitation, and illumination. All modules have interactions with the map. My principal work was developing UI and canvas libraries in applications using ReactJS, Turborepo, MapBox, Maplibre, Antd5, TypeScript, and PNPM.
 
 All this experience helped me build a good base development and understand the needs and client's wishes. These technical features made me a developer very careful with the app details that I've developed and still develop. If you want to know more about me, you can call me on [LinkedIn](https://www.linkedin.com/in/daniel-sansão-araldi-8b23b71b5). Thank you, see you soon 😄.
 
