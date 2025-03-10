@@ -12,7 +12,7 @@ I have already participated in **ERP systems** for signing electronic invoices a
 
 I have significant experience with **mobile app development** done in React Native focused on areas of fintech, catalogs, inventory control, and others. I highlight my knowledge of building native modules for Android (Java) and iOS (Swift and Objective-C/C++) and creating libraries for React Native for publishing in NPM.
 
-I worked for some months on the [LEMA](https://github.com/DanielAraldi/LEMA) project at [Univali](https://www.univali.br/), an oceanography project to link three services to manage geospatial data around the world.
+I worked for some months on the LEMA project at [Univali](https://www.univali.br/), an oceanography project to link three services to manage geospatial data around the world.
 
 Finally, I worked as a web developer for a geospatial company that managed cities around Brazil. I also fixed bugs and added new features on various modules around the application, as economic, real estate, sanitation, and illumination. All modules have interactions with the map. My principal work was developing UI and canvas libraries in applications using ReactJS, Turborepo, MapBox, Maplibre, Antd5, TypeScript, and PNPM.
 
