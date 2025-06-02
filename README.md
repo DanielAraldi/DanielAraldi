@@ -16,9 +16,9 @@ I worked for some months on the LEMA project at [Univali](https://www.univali.br
 
 I also worked as a web developer for a geospatial company that managed cities around Brazil. I also fixed bugs and added new features on various modules around the application, as economic, real estate, sanitation, and illumination. All modules have interactions with the map. My principal work was developing UI and canvas libraries in applications using ReactJS, Turborepo, MapBox, Maplibre, Antd5, TypeScript, and PNPM.
 
-Finally, I currently work as a front-end mobile developer with React, React Native, Expo, Swift (iOS), and Java (Android) at [Azify](https://azify.com/). I am developing UI, tokens, and helpers libraries for React Native projects, and also developing native modules for biometric face and scanning documents.
+Finally, I currently work as a front-end mobile developer with React, React Native, Expo, Swift, Objective-C++ (iOS), Java, and Kotlin (Android) at [Azify](https://azify.com/). I am developing UI, tokens, and helper libraries for React Native projects on old and new architecture, and also developing native modules for biometric face, scanning documents, and blur view.
 
-All this experience helped me build a good base for development and understand the needs and the client's wishes. These technical features made me a developer very careful with the app details that I've developed and still develop. If you want to know more about me, you can call me on [LinkedIn](https://www.linkedin.com/in/daniel-sansão-araldi-8b23b71b5). Thank you, see you soon 😄.
+All this experience helped me build a good base for development and understand the needs and the client's wishes. These technical features made me very careful with the app details I've developed and still develop. If you want to know more about me, you can call me on [LinkedIn](https://www.linkedin.com/in/daniel-sansão-araldi-8b23b71b5). Thank you, see you soon 😄.
 
 ## 🚀 Skills Technologies
 
