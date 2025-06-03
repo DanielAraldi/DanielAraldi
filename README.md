@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/920a7e43-2969-4212-82ff-1b375685ff58.svg)](https://wakatime.com/@920a7e43-2969-4212-82ff-1b375685ff58)
 
+![](https://komarev.com/ghpvc/?username=DanielAraldi)
+
 Welcome to my GitHub profile! I'm a web and mobile front-end developer, but I also have knowledge and experience with back-end development. Here's a bit about me:
 
 ## ✨ About me
