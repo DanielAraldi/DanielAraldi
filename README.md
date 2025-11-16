@@ -12,7 +12,7 @@ I’m a builder and creator of UI libraries for React Native. I also develop nat
 
 Currently working as a front-end mobile developer with React, React Native, Swift, Objective-C++ (iOS), Java, and Kotlin (Android) at [Azify](https://azify.com/). 
 
-Creator of the [react-native-blur-view](https://github.com/DanielAraldi/react-native-blur-view) library.
+Creator of the [react-native-blur-view](https://github.com/DanielAraldi/react-native-blur-view) library and collaborator of the [react-native-blur](https://github.com/sbaiahmed1/react-native-blur).
 
 <br/>
 
