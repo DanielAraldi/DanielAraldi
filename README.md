@@ -4,9 +4,9 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=DanielAraldi)
 
-Welcome to my GitHub profile! I'm a web and mobile front-end developer, but I also have knowledge and experience with back-end development. Here's a bit about me:
+Welcome to my GitHub profile! I'm a web and mobile front-end developer, but I also know about back-end development and best practices. Here's a bit about me:
 
-I'm a Systems Development Technician by [SENAI](https://sc.senai.br/) and currently studying Computer Science at [Univali](https://www.univali.br/). I have been in development studying for 7 years, and I have 4 years of experience as a professional developer, with a front-end and a little bit of back-end 😄.
+I'm a Systems Development Technician by [SENAI](https://sc.senai.br/) and currently studying Computer Science at [Univali](https://www.univali.br/). I have been in development studying for 8 years, and I have 5 years of experience as a professional developer, with a front-end and a little bit of back-end 😄.
 
 I’m a builder and creator of UI libraries for React Native. I also develop native modules and native components for biometrics and facial document scanning.
 
