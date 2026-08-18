@@ -4,13 +4,13 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=DanielAraldi)
 
-Welcome to my GitHub profile! I'm a web and mobile front-end developer, but I also know about back-end development and best practices. Here's a bit about me:
+Welcome to my GitHub profile! I'm a mobile and web front-end developer, but I also know about back-end development and best practices. Here's a bit about me:
 
-I'm a Systems Development Technician by [SENAI](https://sc.senai.br/) and currently studying Computer Science at [Univali](https://www.univali.br/). I have been in development studying for 8 years, and I have 5 years of experience as a professional developer, as a front-end and a little bit of back-end developer 😄.
+I'm a Systems Development Technician by [SENAI](https://sc.senai.br/) and currently studying Computer Science at [Univali](https://www.univali.br/). I have been studying development for 8 years, and I have 5 years of experience as a professional developer, as a front-end and a little bit of back-end developer 😄.
 
 I’m a builder and creator of UI libraries for React Native. I also develop native modules and native components for biometrics and facial document scanning.
 
-Currently working as a front-end mobile developer with React, React Native, Swift, Objective-C++ (iOS), Java, and Kotlin (Android) at [Azify](https://azify.com/). 
+Currently working as a front-end mobile developer with React, React Native, Swift, Objective-C++, Java, and Kotlin at [Azify](https://azify.com/). 
 
 Creator of the [react-native-blur-view](https://github.com/DanielAraldi/react-native-blur-view) library and active collaborator of the [react-native-blur](https://github.com/sbaiahmed1/react-native-blur) and [QmBlurView](https://github.com/QmDeve/QmBlurView).
 
