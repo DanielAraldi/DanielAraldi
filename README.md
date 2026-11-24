@@ -6,9 +6,9 @@
 
 Welcome to my GitHub profile! I'm a mobile and web front-end developer, but I also know about back-end development and best practices. Here's a bit about me:
 
-I'm a Systems Development Technician by [SENAI](https://sc.senai.br/) and currently studying Computer Science at [Univali](https://www.univali.br/). I have been studying development for 8 years, and I have 5 years of experience as a professional developer, as a front-end and a little bit of back-end developer 😄.
+I'm a Systems Development Technician at [SENAI](https://sc.senai.br/) and currently studying Computer Science at [Univali](https://www.univali.br/). I have been studying development for 8 years and have 6 years of experience as a professional front-end developer and a little bit of back-end 😄.
 
-I’m a builder and creator of UI libraries for React Native. I also develop native modules and native components for biometrics and facial document scanning.
+I build and create UI libraries for React Native. I also develop native modules and native components for biometrics and facial document scanning.
 
 Currently working as a front-end mobile developer with React, React Native, Swift, Objective-C++, Java, and Kotlin at [Azify](https://azify.com/). 
 
